@@ -16,18 +16,19 @@ html {
 
 .nav a {
   text-decoration: none;
+  border: 3px solid #467366;
 }
 
 .nav a:hover {
-
+  background-image: url("../images/big-leaf.svg");
 }
 
 .banner {
-
+  background-image: url("../images/banner.jpg");
 }
 
 .banner-content {
-
+  background-image: url("../images/two-leaves.svg") no-repeat;
 }
 
 @media only screen and (min-width: 60em) {
