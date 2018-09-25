@@ -30,12 +30,15 @@ html {
   background-image: url("../images/big-leaf.svg");
   background-position: top center;
   background-size: cover;
+  background-color: #fff;
+  color: #145b1d;
 }
 
 .banner {
   background-image: url("../images/two-leaves.svg"), url("../images/banner.jpg");
-  background-position: top center;
+  background-position: center bottom;
   background-size: cover;
+  padding-top: 66px;
 }
 
 .banner-content {
