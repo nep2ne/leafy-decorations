@@ -5,7 +5,6 @@ html {
 
 .masthead {
   background-image: url("../images/leaf-bg.svg");
-  background-position: top center;
   background-size: 64px auto;
   background-color: #588477;
   border-top: 3px solid #2d5a4d;
@@ -30,10 +29,11 @@ html {
 
 .nav a:hover {
   background-image: url("../images/leaf-icon.svg");
-  background-position: top center;
+  background-position: center center;
   border: 3px solid #2d5a4d;
   border-radius: 8px;
-  background-size: cover;
+  background-size: 64px auto;
+  background-repeat: no-repeat;
   background-color: #fff;
   color: #145b1d;
 }
