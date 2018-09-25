@@ -6,7 +6,7 @@ html {
 .masthead {
   background-image: url("../images/leaf-bg.svg");
   background-position: top center;
-  background-size: auto;
+  background-size: 64px auto;
   background-color: #588477;
   border-top: 3px solid #2d5a4d;
   border-bottom: 3px solid #2d5a4d;
